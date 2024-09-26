@@ -1,0 +1,5 @@
+streamlit
+requests
+selenium
+transformers
+torch  # Required for running the transformers summarization pipeline
